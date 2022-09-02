@@ -8,5 +8,11 @@
 		<p>
 			Bienvenue sur le site officiel de la classe INF2A de la divtec!
 		</p>
+
+		<p>
+			Ce site est un projet personnel de la divtec.
+		</p>
+
+		<TheFooter />
 	</div>
 </template>
